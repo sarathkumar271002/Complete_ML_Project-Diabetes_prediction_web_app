@@ -1,5 +1,7 @@
 ## 🩺 Diabetes Prediction Web App
 
+<img src="screenshots/webapp.png" alt="Diabetes Prediction Web App" width="700">
+
 ### 📌 Overview
 
 This project predicts the likelihood of diabetes in patients based on various health parameters.
