@@ -1,6 +1,6 @@
 ## 🩺 Diabetes Prediction Web App
 
-<img src="Complete_ML_Project-Diabetes_prediction_web_app/ss1.png" alt="Diabetes Prediction Web App" width="700">
+<img src="ss1.png" alt="Diabetes Prediction Web App" width="700">
 
 ### 📌 Overview
 
