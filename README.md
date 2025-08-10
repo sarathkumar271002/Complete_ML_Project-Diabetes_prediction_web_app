@@ -42,15 +42,10 @@ The project also includes **EDA (Exploratory Data Analysis)** and is deployed wi
 * **F1 Score**: 0.97
 
 ---
-### **1️⃣ Streamlit Web App**
+### ** Streamlit Web App**
 
 ![Web App Screenshot](screenshots/webapp.png)
 
-### **2️⃣ EDA Visualization**
-
-![EDA Screenshot](screenshots/eda.png)
-
----
 
 ## 🚀 How to Run Locally
 
